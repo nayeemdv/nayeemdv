@@ -13,6 +13,6 @@
  
  ### About Me 🚀
 -🎓 I’m an Open-Source enthusiast Programmer. Currently I'm Learning DSA & Devloping Basic Projects. </br>
--👨‍💻  I am passionate about DevOps, Web Dev, Android Dev & I enjoy learning new things. </br>
+-👨‍💻  I am passionate about DevOps, Android Dev & I enjoy learning new things. </br>
 
 
