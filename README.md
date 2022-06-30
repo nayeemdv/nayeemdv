@@ -16,7 +16,7 @@
 -🎓 Currently I'm Learning Android Development & Devloping Basic Projects.</br>
 -👨‍💻 I passionate about DevOps, App Development, Cloud Native etc.</br>
 
-### Skills
+### Skills Acquired
    - Java , Kotlin
    - Data Structure & Algorithms
    - Android Devlopment
@@ -25,3 +25,13 @@
 ### Projects & Experience
    - In Progress
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayeemdv&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeemdv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nayeemdv)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://komarev.com/ghpvc/?username=nayeemdv&color=green)
