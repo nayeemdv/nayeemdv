@@ -12,7 +12,7 @@
  
  
  ### About Me 🚀
--🎓 I’m a Self Taught Open-Source enthusiast Programmer.</br>
+-🎓 I’m a passionate self-taught developer.</br>
 -🎓 Currently I'm Learning Android Development & Devloping Basic Projects.</br>
 -👨‍💻 I passionate about DevOps, App Development, Cloud Native etc.</br>
 
