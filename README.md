@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nayeem</h1>
-<h2 align="center">A passionate Android Developer and an Open Source Contributor.</h2>
+<h2 align="center">A passionate Android Developer || Open Source Enthusiast.</h2>
 
 
-- 🔭 I’m currently working on Personal Project **[Foodler](https://github.com/nayeemdv/Foodler)** a food ordering app.
+- 🔭 I’m currently working on Personal Project **[Foodler](https://github.com/nayeemdv/Foodler)** app.
 
 - 👯 I have been contributing at [Anki-Android](https://github.com/ankidroid/Anki-Android) and [LibreTube](https://github.com/libre-tube/LibreTube)
 
