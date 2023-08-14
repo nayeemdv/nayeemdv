@@ -4,9 +4,11 @@
 
 - 🔭 I’m currently working on Personal Project **[Foodler](https://github.com/nayeemdv/Foodler)** app.
 
-- 👯 I have been contributing at [Anki-Android](https://github.com/ankidroid/Anki-Android) and [LibreTube](https://github.com/libre-tube/LibreTube)
+- 👯 I have been contributing at [Anki-Android](https://github.com/ankidroid/Anki-Android) and [mifos-mobile](https://github.com/openMF/mifos-mobile)
 
 - 🌱 I’m currently learning **JetPack Compose, Material Design and Navigation Component**
+  
+- 💬 Ask me about Android,Kotlin and Java
 
 - 💥 I'm passionate about **Web3 , Devops , Traveling and Gaming**
 
@@ -24,4 +26,8 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=22272E&logo=Android+Studio&logoColor=3DDC84&label=)
 
 ### 🚀 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayeemdv&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img height="150" src ="http://github-readme-streak-stats.herokuapp.com?user=nayeemdv&theme=react" />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nayeemdv&theme=react&show_icons=true&hide=stars&count_private=true" />
+</p>
